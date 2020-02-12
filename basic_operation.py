@@ -1,5 +1,6 @@
-from __future__ import absolute_import, division, print_function, unicode_literals
-
+"""
+https://www.edwith.org/others26/lecture/10730/
+"""
 import tensorflow.compat.v1 as tf
 with tf.compat.v1.Session() as sess:
 
